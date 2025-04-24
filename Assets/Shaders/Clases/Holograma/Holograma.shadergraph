@@ -1558,8 +1558,8 @@
     "m_ObjectId": "01915acccf2c4756a1b9d89ecc3c25c9",
     "m_Title": "Fresnel",
     "m_Position": {
-        "x": -1382.0,
-        "y": -573.0
+        "x": -1489.000244140625,
+        "y": -1076.0001220703125
     }
 }
 
@@ -1575,10 +1575,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -773.0,
-            "y": -465.0000305175781,
+            "x": -778.9999389648438,
+            "y": -967.9999389648438,
             "width": 207.99993896484376,
-            "height": 302.0
+            "height": 301.99993896484377
         }
     },
     "m_Slots": [
@@ -2404,13 +2404,13 @@
     },
     "m_Name": "Smoothstep",
     "m_DrawState": {
-        "m_Expanded": false,
+        "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1026.999755859375,
-            "y": -464.9999694824219,
-            "width": 208.0001220703125,
-            "height": 302.00006103515627
+            "x": -1033.0,
+            "y": -967.9999389648438,
+            "width": 207.99993896484376,
+            "height": 326.0
         }
     },
     "m_Slots": [
@@ -3034,7 +3034,7 @@
     "m_Title": "Vertical Movement",
     "m_Position": {
         "x": -2884.000244140625,
-        "y": 415.0
+        "y": 414.9999694824219
     }
 }
 
@@ -3420,8 +3420,8 @@
     "m_ObjectId": "31c074dec5d84db6aab88d19acb5a788",
     "m_Title": "Matrix",
     "m_Position": {
-        "x": -2518.0,
-        "y": -859.9999389648438
+        "x": -2518.000244140625,
+        "y": -860.0000610351563
     }
 }
 
@@ -4771,7 +4771,7 @@
     "m_Title": "Deform",
     "m_Position": {
         "x": -1997.0,
-        "y": -2171.0
+        "y": -2171.000244140625
     }
 }
 
@@ -5519,8 +5519,8 @@
     "m_ObjectId": "6fcf910dbfe245cca1d7b09bda7abbb5",
     "m_Title": "Grid",
     "m_Position": {
-        "x": -2229.0,
-        "y": 385.0
+        "x": -2229.000244140625,
+        "y": 385.0000305175781
     }
 }
 
@@ -5827,7 +5827,7 @@
     "m_ObjectId": "7c758bbf86424fc79fcfedc123d2c037",
     "m_Title": "Glitch Noise",
     "m_Position": {
-        "x": -2382.0,
+        "x": -2382.000244140625,
         "y": 1542.0
     }
 }
@@ -6198,8 +6198,8 @@
     "m_ObjectId": "87088dca8d85497683b6bd31d303156c",
     "m_Title": "Tintineo",
     "m_Position": {
-        "x": -3400.000244140625,
-        "y": 830.0
+        "x": -3400.0,
+        "y": 830.0000610351563
     }
 }
 
@@ -8408,10 +8408,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -966.0,
-            "y": -514.0000610351563,
+            "x": -972.0,
+            "y": -1016.9999389648438,
             "width": 146.99993896484376,
-            "height": 34.000030517578128
+            "height": 33.99993896484375
         }
     },
     "m_Slots": [
@@ -10239,7 +10239,7 @@
     "m_ObjectId": "f6e0a115827f452db65d5ccd8c3dd0c7",
     "m_Title": "Texturas Final",
     "m_Position": {
-        "x": -1031.0,
+        "x": -1031.0001220703125,
         "y": 107.0
     }
 }
@@ -10404,13 +10404,13 @@
     },
     "m_Name": "Fresnel Effect",
     "m_DrawState": {
-        "m_Expanded": false,
+        "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1208.0001220703125,
-            "y": -424.0,
-            "width": 151.00048828125,
-            "height": 94.00009155273438
+            "x": -1315.0,
+            "y": -951.9999389648438,
+            "width": 208.0,
+            "height": 326.0
         }
     },
     "m_Slots": [
@@ -10429,7 +10429,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 2,
     "m_CustomColors": {
@@ -10537,10 +10537,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1357.0,
-            "y": -383.9999694824219,
-            "width": 148.9998779296875,
-            "height": 33.999969482421878
+            "x": -1464.0,
+            "y": -999.9999389648438,
+            "width": 149.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
