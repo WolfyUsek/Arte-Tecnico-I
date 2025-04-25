@@ -58,7 +58,7 @@ Material:
     - _QueueOffset: 0
     - _Radius: 1.5
     - _Scale: 1
-    - _Smoothness: 0.035
+    - _Smoothness: 0.05
     - _Uses_Alpha: 0
     m_Colors:
     - _Area_Color: {r: 0.5529412, g: 0.5647059, b: 0.5529412, a: 1}
