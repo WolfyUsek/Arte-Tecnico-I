@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ShadeToon 1
-  m_Shader: {fileID: -6465566751694194690, guid: 9ced0ff48916225459dffd14f4f9de40, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 22e548f03294083449ff7a09ed16bd99, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
