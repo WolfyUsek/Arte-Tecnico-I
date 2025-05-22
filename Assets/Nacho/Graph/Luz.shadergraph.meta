@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Nacho/Graph/Luz.shadergraph.meta
 guid: 22e548f03294083449ff7a09ed16bd99
+========
+guid: c8877958896fc3544b665a4a2dcc1937
+>>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387:Assets/Nacho/Materials/Luz.shadergraph.meta
+=======
+guid: c8877958896fc3544b665a4a2dcc1937
+>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}

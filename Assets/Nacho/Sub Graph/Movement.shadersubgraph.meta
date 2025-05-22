@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Nacho/Sub Graph/Movement.shadersubgraph.meta
 guid: 8e3f7d2196c980949b42f0128a3b43ba
+========
+guid: bfac8ba52d39a1643b8a0b8f4945262c
+>>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387:Assets/Shaders/Sub Graphs/LOD.shadersubgraph.meta
+=======
+guid: bfac8ba52d39a1643b8a0b8f4945262c
+>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Nacho/Materials/AguaEva2 1.mat.meta
 guid: b4280ee82a5ef8641b258c0ee78ca0bf
+========
+guid: 902cf0da4da34734eb9134b5d61297a6
+>>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387:Assets/Nacho/Materials/AguaEva2 2.mat.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

@@ -1,9 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/redMaterialGae.mat.meta
 guid: 454d8b304a8c9724d9d02ac73f8dc723
 =======
 guid: 191f992af18156e45a3e6f042ffba00e
 >>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387:Assets/Nacho/Graph/ShadeToon 1.mat.meta
+=======
+<<<<<<<< HEAD:Assets/Nacho/Materials/AguaEva2 2.mat.meta
+guid: 902cf0da4da34734eb9134b5d61297a6
+========
+guid: 191f992af18156e45a3e6f042ffba00e
+>>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387:Assets/Nacho/Graph/ShadeToon 1.mat.meta
+>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

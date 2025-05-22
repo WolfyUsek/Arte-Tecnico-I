@@ -1,9 +1,25 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Shaders/Clases/Vertex Displacement/Noise.png.meta
 <<<<<<< HEAD:Assets/pexels-enginakyurt-1435752.jpg.meta
 guid: 9c94f789577836c4a9df13fbd5d9a60c
 =======
 guid: 8fa81a2930247e1479850841741aa75d
 >>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387:Assets/Shaders/Clases/Vertex Displacement/Noise.png.meta
+========
+guid: 3792ff5a4a7405b489253ed6af6bb985
+>>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387:Assets/Shaders/Clases/Vertex Displacement/Shield01_UVs.png.meta
+=======
+<<<<<<<< HEAD:Assets/Shaders/Clases/Vertex Displacement/Shield01_UVs.png.meta
+<<<<<<< HEAD:Assets/shade.png.meta
+guid: 636621634bb936e419e3823862030147
+=======
+guid: 3792ff5a4a7405b489253ed6af6bb985
+>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387:Assets/Shaders/Clases/Vertex Displacement/Shield01_UVs.png.meta
+========
+guid: 8fa81a2930247e1479850841741aa75d
+>>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387:Assets/Shaders/Clases/Vertex Displacement/Noise.png.meta
+>>>>>>> 3f37e472dfa528e9c9d086c700809cf88f069387
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
